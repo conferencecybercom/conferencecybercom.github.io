@@ -1,0 +1,96 @@
+{
+  "site": {
+    "title": "CYBERCOM-27",
+    "fullName": "2nd International Conference on Cybernation and Computation",
+    "shortName": "CYBERCOM",
+    "edition": "2nd",
+    "year": "2027",
+    "location": "GRAPHIC ERA HILL UNIVERSITY, DEHRADUN, INDIA.",
+    "dates": "March 15-17, 2027",
+    "mode": "Physical",
+    "ieeeRecordNumber": "#####",
+    "tagline": "Connect. Ideate. Automate.",
+    "showIEEE": false,
+    "branding": {
+      "logo_conference": "/images/cybercom_logo.png",
+      "logo_university": "/images/university_logo.png",
+      "logo_ieee": "/images/up_section.png"
+    },
+    "about": {
+      "heading": "About CyberCom-27",
+      "paragraphs": [
+        "CyberCom-27 is the 2nd International Conference on Cybernation and Computation, organized in physical mode from 15-17 March 2027, under Graphic Era Hill University, Dehradun. The field of Computation, Engineering & Automation has gained strong prominence through rapid advances in computing and integrated technologies, and the years ahead are expected to see expanded deployment of advanced computing systems, tools, and applications across industries and research domains.",
+        "The conference aims to connect researchers, specialists, and professionals from both industry and academia to foster collaborations across diverse areas of engineering, technology, and innovation. It provides a premier interdisciplinary platform for presenting the latest research findings, ideas, developments, and applications in all aspects of computational science and engineering.",
+        "CyberCom-27 continues the successful tradition of the earlier series — with previous editions ( CyberCom-24) already conducted and their proceedings published, including indexed conference proceedings available online.",
+        "The conference brings together leading academic researchers and professionals from around the world to discuss cutting-edge trends in computing and communications. It is dedicated to fostering high-quality research and sharing innovative advancements across multiple domains. Participants gain opportunities to explore future directions, strategies, and priorities, exchange ideas for global collaborations, and stay informed about the latest technological developments and research discoveries essential for sustaining academic progress."
+      ],
+      "objectivesHeading": "",
+      "objectives": [],
+      "takeaways": [
+        "Opportunity to present research at an established 4th edition international conference",
+        "Publication of accepted papers in recognized proceedings",
+        "Platform for global academic and industry collaboration",
+        "Exposure to cutting-edge research trends in AI, Communication, Security, Automation, and Intelligent Systems",
+        "Networking with distinguished researchers, keynote speakers, and experts",
+        "Discussion on future technological directions and research priorities",
+        "Knowledge sharing that supports academic sustainability and innovation growth"
+      ]
+    }
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "path": "home"
+    },
+    {
+      "label": "About",
+      "path": "about"
+    },
+    {
+      "label": "Call for Papers",
+      "path": "cfp"
+    },
+    {
+      "label": "Guidelines",
+      "path": "guidelines"
+    },
+    {
+      "label": "Committees",
+      "path": "committees"
+    },
+    {
+      "label": "Tracks",
+      "path": "tracks"
+    },
+    {
+      "label": "Speakers",
+      "path": "speakers"
+    },
+    {
+      "label": "Registration",
+      "path": "registration"
+    },
+    {
+      "label": "Gallery",
+      "path": "gallery"
+    },
+    {
+      "label": "Contact",
+      "path": "contact"
+    }
+  ],
+  "contact": {
+    "email": "cybercom@gehu.ac.in",
+    "address": "Graphic Era Hill University, Society Area, Clement Town, Dehradun, Uttarakhand 248002",
+    "phone": "+91 98708 96031",
+    "queries": [
+      {
+        "type": "General Queries",
+        "contacts": [
+          "Dr. Vikrant Sharma (+91-9082373573)",
+          "Dr. Amit Gupta (+91-9412941219)"
+        ]
+      }
+    ]
+  }
+}

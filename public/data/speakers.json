@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Arjan Gupta",
+        "role": "Keynote Speaker",
+        "affiliation": "MIT Media Lab",
+        "bio": "Leading expert in AI Safety for Autonomous Vehicles with over 200 publications.",
+        "image": "./images/speaker-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sarah Jenkins",
+        "role": "Invited Speaker",
+        "affiliation": "Google DeepMind",
+        "bio": "Specialist in Edge Computing and IoT Infrastructure for smart cities.",
+        "image": "./images/speaker-2.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "title": "Call For Paper",
+    "subtitle": "{{CONF_FULL_NAME}}",
+    "description": "{{CONF_TITLE}} is dedicated to fostering high-quality research in the field of Computational Sciences. This conference serves as a platform for the sharing of information, the introduction of innovative technologies and advancements, and the exploration of future directions, strategies, and priorities within this domain. {{CONF_TITLE}} undoubtedly assembles influential thought leaders to engage in discussions and deliberations on the most critical issues, delivering timely insights across various sectors and exemplary practices. The exchange of ideas in areas of interest lays the groundwork for future collaborations on a global scale. Among the key advantages of attending this conference is the opportunity to stay updated on the latest developments in technology, which is essential for academic sustainability. The conference ensures participants are well-informed about the most recent discoveries and advancements in the field.",
+    "tracksHeading": "The computational science technologies we will be including are:",
+    "tracks": [
+        "Track 1: Intelligent Systems",
+        "Track 2: Communication Devices & Signal Processing:",
+        "Track 3: Security:",
+        "Track 4: Communication Networks:"
+    ],
+    "closing": "Papers from other topics relevant to conference theme or the special sessions are also welcome. Submission of papers shall be through CMT.",
+    "awards": {
+        "heading": "Awards",
+        "items": [
+            "Best Paper Award",
+            "Young Scientist Award",
+            "Young Scholar Award"
+        ]
+    }
+}

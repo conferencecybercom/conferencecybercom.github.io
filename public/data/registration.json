@@ -1,0 +1,55 @@
+{
+    "importantDates": [
+        {
+            "label": "Conference Dates",
+            "date": "15–17 March 2027"
+        },
+        {
+            "label": "Full Paper Submission (Last Date)",
+            "date": "10 November 2026"
+        }
+    ],
+    "fees": {
+        "columns": [
+            "Category",
+            "Indian",
+            "International"
+        ],
+        "rows": [
+            {
+                "category": "Non-IEEE Professional",
+                "indian": "₹9,500 INR",
+                "international": "$350 USD"
+            },
+            {
+                "category": "IEEE Professional Members",
+                "indian": "₹8,500 INR",
+                "international": "$250 USD"
+            },
+            {
+                "category": "Non-IEEE Students",
+                "indian": "₹7,500 INR",
+                "international": "$200 USD"
+            },
+            {
+                "category": "IEEE Student Members",
+                "indian": "₹6,000 INR",
+                "international": "$180 USD"
+            },
+            {
+                "category": "Attendees and Co-Author/Poster Presentation",
+                "indian": "₹2,000 INR",
+                "international": "$30 USD"
+            }
+        ]
+    },
+    "bankDetails": {
+        "beneficiaryName": "GRAPHIC ERA HILL UNIVERSITY A/C RESEARCH & DEVELOPMENT",
+        "bankName": "AXIS BANK",
+        "branch": "Saharanpur Road",
+        "ifscCode": "UTIB0002959",
+        "accountNumber": "920010040627250",
+        "branchCode": "002959",
+        "bankAddress": "Saharanpur Road, C1498, Dehradun, Uttarakhand 248001"
+    }
+}

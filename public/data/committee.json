@@ -1,0 +1,478 @@
+{
+    "categories": [
+        {
+            "id": "patrons",
+            "title": "Patrons",
+            "roles": [
+                {
+                    "role_name": "Chief Patron",
+                    "members": [
+                        {
+                            "name": "Prof. (Dr.) Kamal Ghanshala",
+                            "affiliation": "Chancellor, Graphic Era Hill University, Dehradun"
+                        }
+                    ]
+                },
+                {
+                    "role_name": "Patron(s)",
+                    "members": [
+                        {
+                            "name": "Prof. (Dr.) S.N. Singh",
+                            "affiliation": "Director, IIIT Gwalior"
+                        }
+                    ]
+                },
+                {
+                    "role_name": "General Chair(s)",
+                    "members": [
+                        {
+                            "name": "Prof. (Dr.) Amit R. Bhatt",
+                            "affiliation": "Vice Chancellor, Graphic Era Hill University, Dehradun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "conference_chairs",
+            "title": "Conference Chairs & Conveners",
+            "roles": [
+                {
+                    "role_name": "Conference Chair(s)",
+                    "members": [
+                        {
+                            "name": "Dr. Vikrant Sharma",
+                            "affiliation": "CSE, Graphic Era Hill University, Dehradun"
+                        },
+                        {
+                            "name": "Dr. Anupam Singh",
+                            "affiliation": "HOD, CSE, Graphic Era Hill University, Dehradun"
+                        },
+                        {
+                            "name": "Prof. Dibyahash Bordoloi",
+                            "affiliation": "CSE, Graphic Era Deemed to be University, Dehradun"
+                        },
+                        {
+                            "name": "Dr. Pilli Emmanuel Shubhankar",
+                            "affiliation": "MNIT, Jaipur, India"
+                        },
+                        {
+                            "name": "Dr. Shashidhar G Koolagudi",
+                            "affiliation": "NIT Karnataka, Surathkal"
+                        }
+                    ]
+                },
+                {
+                    "role_name": "Convener(s)",
+                    "members": [
+                        {
+                            "name": "Dr. Vikrant Sharma",
+                            "affiliation": "CSE, Graphic Era Hill University, Dehradun"
+                        },
+                        {
+                            "name": "Dr. Amit Gupta",
+                            "affiliation": "CSE, Graphic Era Hill University, Dehradun"
+                        },
+                        {
+                            "name": "Mr. Purushottam Das",
+                            "affiliation": "CSE, Graphic Era Hill University, Dehradun"
+                        }
+                    ]
+                },
+                {
+                    "role_name": "Conference Secretary(s)",
+                    "members": [
+                        {
+                            "name": "Dr. Teekam Singh",
+                            "affiliation": "Dean Research, Graphic Era Hill University, Dehradun"
+                        },
+                        {
+                            "name": "Dr. Akhilesh Tiwari",
+                            "affiliation": "IIIT, Allahabad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "publication_chairs",
+            "title": "Publication Chair(s)",
+            "members": [
+                {
+                    "name": "Dr. Satvik Vats",
+                    "affiliation": "MMMUT, Gorakhpur"
+                },
+                {
+                    "name": "Eisuke Kita",
+                    "affiliation": "Nagoya University, Japan"
+                },
+                {
+                    "name": "Prof. (Dr.) A.K. Sahoo",
+                    "affiliation": "Graphic Era Hill University, Dehradun"
+                },
+                {
+                    "name": "Dr. Guoyi Peng",
+                    "affiliation": "Nihon University, Japan"
+                },
+                {
+                    "name": "Dr. Hasmukh Morarji",
+                    "affiliation": "QUT, Brisbane, Australia"
+                },
+                {
+                    "name": "Dr. Om Pal",
+                    "affiliation": "University of Delhi"
+                },
+                {
+                    "name": "Dr. Santri Negi",
+                    "affiliation": "DEAL, Dehradun"
+                }
+            ]
+        },
+        {
+            "id": "tpc_chairs",
+            "title": "Technical Program Chair(s)",
+            "members": [
+                {
+                    "name": "Dr. Zafar U. Ahmed",
+                    "affiliation": "Texas University, USA"
+                },
+                {
+                    "name": "Dr. Rosilah Binti Hassan",
+                    "affiliation": "Universiti Kebangsaan Malaysia, Malaysia"
+                },
+                {
+                    "name": "Dr. Pinaki Sen",
+                    "affiliation": "DEAL, Dehradun"
+                },
+                {
+                    "name": "Dr. Ali Ahmadian",
+                    "affiliation": "Central Queensland University, Australia"
+                },
+                {
+                    "name": "Dr. Unni Krishnan",
+                    "affiliation": "DEAL, Dehradun"
+                },
+                {
+                    "name": "Dr. Om Pal",
+                    "affiliation": "University of Delhi"
+                },
+                {
+                    "name": "Dr. Santri Negi",
+                    "affiliation": "DEAL, Dehradun"
+                },
+                {
+                    "name": "Dr. Anish Mathuria",
+                    "affiliation": "University of Massachusetts Dartmouth, USA"
+                },
+                {
+                    "name": "Dr. Rjender Singh",
+                    "affiliation": "DEAL, Dehradun"
+                },
+                {
+                    "name": "Alain Bretto",
+                    "affiliation": "University of Caen, France"
+                },
+                {
+                    "name": "Dr. Prateek Srivastava",
+                    "affiliation": "Graphic Era Hill University, Dehradun"
+                },
+                {
+                    "name": "Dr. Susheela Dhiya",
+                    "affiliation": "Graphic Era Hill University, Dehradun"
+                }
+            ]
+        },
+        {
+            "id": "advisory_board",
+            "title": "Advisory Board",
+            "subgroups": [
+                {
+                    "name": "International",
+                    "members": [
+                        {
+                            "name": "Shehzad Ashraf Chaudhry",
+                            "affiliation": "Istanbul Gelisim University, Turkey"
+                        },
+                        {
+                            "name": "Sergey Bezzateev",
+                            "affiliation": "ITMO University, Russia"
+                        },
+                        {
+                            "name": "Prof. (Dr.) S. K Singh",
+                            "affiliation": "IIIT, Allahabad"
+                        },
+                        {
+                            "name": "Dr. David Taniar",
+                            "affiliation": "Monash University, Australia"
+                        },
+                        {
+                            "name": "Dr. Soheil Salahshour",
+                            "affiliation": "Bahcesehir University, Turkey"
+                        },
+                        {
+                            "name": "Dr. Shiva Kumar Mathapathi",
+                            "affiliation": "Northeastern University & UC San Diego, USA"
+                        },
+                        {
+                            "name": "Dr. Al-Sakib Khan Pathan",
+                            "affiliation": "UIU, Dhaka, Bangladesh"
+                        },
+                        {
+                            "name": "Dr. Fabrizio Baiardi",
+                            "affiliation": "University of Pisa, Italy"
+                        },
+                        {
+                            "name": "Dr. Omprakash Kaiwartya",
+                            "affiliation": "Nottingham Trent University, England"
+                        },
+                        {
+                            "name": "Navneet Kaushal",
+                            "affiliation": "IBM, Canada"
+                        }
+                    ]
+                },
+                {
+                    "name": "National",
+                    "members": [
+                        {
+                            "name": "Dr. Satish Kumar Singh",
+                            "affiliation": "Chair IEEE UP, IIIT Allahabad"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Dilip Kumar Sharma",
+                            "affiliation": "GLA Mathura"
+                        },
+                        {
+                            "name": "Dr. M.V. Kartikeyan",
+                            "affiliation": "Director, IIITDM, Kancheepuram"
+                        },
+                        {
+                            "name": "Prof. (Dr.) D.K. Lobiyal",
+                            "affiliation": "JNU, New Delhi"
+                        },
+                        {
+                            "name": "Dr. Karan Singh",
+                            "affiliation": "JNU, New Delhi"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Chandra Mani",
+                            "affiliation": "IISc, Bengaluru"
+                        },
+                        {
+                            "name": "Dr. Sudhir Khare",
+                            "affiliation": "IRDE (DRDO)"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Anurag Jain",
+                            "affiliation": "Indraprastha University, New Delhi"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Devendra Prasad",
+                            "affiliation": "PIET, Panipat"
+                        },
+                        {
+                            "name": "Dr. B.B. Sagar",
+                            "affiliation": "BIT, Mesra"
+                        },
+                        {
+                            "name": "Dr. Williamjeet Singh",
+                            "affiliation": "Punjabi University, Patiala"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Nanhe Singh",
+                            "affiliation": "NSUT, New Delhi"
+                        },
+                        {
+                            "name": "Prof. (Dr.) R.S. Rao",
+                            "affiliation": "NSUT, New Delhi"
+                        },
+                        {
+                            "name": "Dr. Bhavnesh Kumar",
+                            "affiliation": "NSUT, New Delhi"
+                        },
+                        {
+                            "name": "Dr. Rakesh Bharadwaj",
+                            "affiliation": "DEAL (DRDO)"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Manoj Kumar Gupta",
+                            "affiliation": "SMVDU, Katra"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tpc",
+            "title": "Technical Program Committee",
+            "subgroups": [
+                {
+                    "name": "International",
+                    "members": [
+                        {
+                            "name": "Prof. (Dr.) Akhilesh Pandey",
+                            "affiliation": "Texas Tech University, Texas"
+                        },
+                        {
+                            "name": "Dr. Devender Arora",
+                            "affiliation": "Purdue University, USA"
+                        },
+                        {
+                            "name": "Prof. (Dr.) R.C. Bansal",
+                            "affiliation": "University of Sharjah, UAE"
+                        },
+                        {
+                            "name": "Prof. (Dr.) M. Akbar",
+                            "affiliation": "Alborg University, Denmark"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Om Prakash Kaiwartya",
+                            "affiliation": "Nottingham Trent University, England"
+                        },
+                        {
+                            "name": "Dr. Atif Azad",
+                            "affiliation": "Ericsson, Germany"
+                        },
+                        {
+                            "name": "Dr. Cheng-Chi Lee",
+                            "affiliation": "Asia University, Taiwan"
+                        },
+                        {
+                            "name": "Dr. Carlos Becker Westphall",
+                            "affiliation": "Federal University of Santa Catarina, Brazil"
+                        },
+                        {
+                            "name": "Dr. Maode Ma",
+                            "affiliation": "Nanyang Technological University, Singapore"
+                        },
+                        {
+                            "name": "Dr. Dimitrios A. Karras",
+                            "affiliation": "Chalkis Institute of Technology, Greece"
+                        },
+                        {
+                            "name": "Mr. Sunny Singh",
+                            "affiliation": "Insignia, USA"
+                        }
+                    ]
+                },
+                {
+                    "name": "National",
+                    "members": [
+                        {
+                            "name": "Prof. (Dr.) Chandra Mani",
+                            "affiliation": "IISc, Bengaluru"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Anurag Jain",
+                            "affiliation": "Indraprastha University, New Delhi"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Devendra Prasad",
+                            "affiliation": "PIET, Panipat"
+                        },
+                        {
+                            "name": "Dr. B.B. Sagar",
+                            "affiliation": "BIT, Mesra"
+                        },
+                        {
+                            "name": "Dr. Williamjeet Singh",
+                            "affiliation": "Punjabi University, Patiala"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Nanhe Singh",
+                            "affiliation": "NSUT, New Delhi"
+                        },
+                        {
+                            "name": "Prof. (Dr.) R.S. Rao",
+                            "affiliation": "NSUT, New Delhi"
+                        },
+                        {
+                            "name": "Prof. (Dr.) Manoj Kumar Gupta",
+                            "affiliation": "SMVDU, Katra"
+                        },
+                        {
+                            "name": "Dr. Manisha Manjul",
+                            "affiliation": "G.B. Pant College, New Delhi"
+                        },
+                        {
+                            "name": "Prof. Manjeet Singh",
+                            "affiliation": "G.B. Pant College, New Delhi"
+                        },
+                        {
+                            "name": "Dr. Rakesh Patra",
+                            "affiliation": "Jain University, Bangalore"
+                        },
+                        {
+                            "name": "Dr. Sanoj Kumar",
+                            "affiliation": "UPES, Uttarakhand"
+                        },
+                        {
+                            "name": "Dr. Anuj Jain",
+                            "affiliation": "Chandigarh University, Chandigarh"
+                        },
+                        {
+                            "name": "Dr. Pankaj Kumar",
+                            "affiliation": "DA-IICT, Gujarat"
+                        },
+                        {
+                            "name": "Dr. Pradeep Singh",
+                            "affiliation": "Galgotia University, Noida"
+                        },
+                        {
+                            "name": "Mr. Dilip Kumar Gangwar",
+                            "affiliation": "Siemens, India"
+                        },
+                        {
+                            "name": "Mr. Abhishek Rai",
+                            "affiliation": "Optum India"
+                        },
+                        {
+                            "name": "Mr. Harshit Tondon",
+                            "affiliation": "Fleek IT Solutions, India"
+                        },
+                        {
+                            "name": "Dr. Anuj Kumar",
+                            "affiliation": "Doon University, Dehradun"
+                        },
+                        {
+                            "name": "Dr. Tayyab Khan",
+                            "affiliation": "IIIT Sonepat"
+                        },
+                        {
+                            "name": "Dr. Amit Kumar Dewangan",
+                            "affiliation": "GGU, Bilaspur"
+                        },
+                        {
+                            "name": "Dr. Kushal Kanwar",
+                            "affiliation": "JUIT, Solan, India"
+                        },
+                        {
+                            "name": "Dr. Saurabh Jain",
+                            "affiliation": "IIIT Sonipat"
+                        },
+                        {
+                            "name": "Dr. Maheep Singh",
+                            "affiliation": "Doon University, Dehradun"
+                        },
+                        {
+                            "name": "Dr. Vijay Kumar Garg",
+                            "affiliation": "LPU, Punjab"
+                        },
+                        {
+                            "name": "Dr. Gunjan Chabra",
+                            "affiliation": "School of Science & Technology, SRHU, Dehradun"
+                        },
+                        {
+                            "name": "Dr Shantanu Shahi",
+                            "affiliation": "MMMUT, Gorakhpur"
+                        },
+                        {
+                            "name": "Dr Shwet Ketu",
+                            "affiliation": "MMMUT, Gorakhpur"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

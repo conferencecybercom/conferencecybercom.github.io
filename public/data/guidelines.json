@@ -1,0 +1,84 @@
+{
+    "sections": [
+        {
+            "title": "Important Points for Manuscript Preparation",
+            "items": [
+                "Paper must be an unpublished novel research work and it should be written in either British or American style English but not on both.",
+                "Anyone author should be assigned as a Corresponding Author for any future communication with the conference. The number of authors in a manuscript should not exceed 6.",
+                "Full paper submissions should contain 6-8 pages.",
+                "Avoid including affiliation/acknowledgement footnotes. If it cannot be avoided, insert them at the end of the text, just above the references.",
+                "Any tables or figures must be numbered and it should be of high quality.",
+                "Authors should ensure that the article has been thoroughly reviewed for typographical and grammatical mistakes before submitting it.",
+                "All accepted and presented papers of {{CONF_TITLE}} will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope (Indexing: Scopus)."
+            ],
+            "actions": [
+                {
+                    "text": "Submit via CMT",
+                    "url": "##"
+                },
+                {
+                    "text": "Contact Support",
+                    "url": "mailto:{{CONF_EMAIL}}"
+                }
+            ]
+        },
+        {
+            "title": "Paper Formatting",
+            "items": [
+                "Articles may be edited for clarity and grammatical accuracy, and should be copy edited according to the publisher manuscript style.",
+                "Papers must be written in a Times New Roman font, single spacing; justified alignment according to the aforementioned template.",
+                "The manuscript should be prepared in IEEE format using MS WORD.",
+                "Figures/graphs/plots MUST be of good resolution (600 dpi or more); tables MUST NOT be in pictorial format.",
+                "Figures, text, or the tables MUST be visible within boundary of the text area and MUST NOT go beyond it.",
+                "Do NOT use Social/Academic titles (Mr., Ms., Dr., Prof.) or mention positions (student, professor) in the affiliation.",
+                "Mention full address, affiliation, and email of ALL authors; specify a corresponding author with email ID.",
+                "All references, figures, and tables should be numbered in sequence and MUST be duly cited within the text."
+            ],
+            "subsections": [
+                {
+                    "title": "Required Manuscript Sections:",
+                    "items": [
+                        "Abstract",
+                        "Background, Motivation and Objective",
+                        "Statement of Contribution/Methods",
+                        "Results, Discussions and Conclusion",
+                        "Future Research Direction"
+                    ]
+                }
+            ],
+            "actions": [
+                {
+                    "text": "Download Paper Template (Word)",
+                    "url": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/Conference-template-A4.doc"
+                }
+            ]
+        },
+        {
+            "title": "Review & Notification Policy",
+            "items": [
+                "To ensure high scientific quality, all papers will be reviewed by the Scientific Committee Members.",
+                "Once the reviewing process is complete, the corresponding author will be notified of acceptance/revision/rejection by e-mail.",
+                "Accepted authors are encouraged to update the paper to meet any recommendations provided by the reviewers.",
+                "Rejection may be due to: Out of Scope or high plagiarism. A rejected paper will never be considered again."
+            ]
+        },
+        {
+            "title": "Academic Ethics: Plagiarism",
+            "items": [
+                "Acceptable plagiarism range is less than 10% (excluding references) with 0% AI Plagiarism.",
+                "Plagiarism, image manipulation, and data fabrication are not tolerated.",
+                "Plagiarism includes copying ideas, text, images, or data from another source without credit, even from your own publications.",
+                "Text copied from another source must be reused within quotations, and the original source must be referenced.",
+                "If plagiarism is detected during review, the manuscript will be rejected; if after publication, it will be retracted."
+            ]
+        },
+        {
+            "title": "Copyright & Responsibility",
+            "items": [
+                "Authors are responsible for obtaining and paying for all necessary rights to use third-party content in their works.",
+                "In no case will the organizing institute be responsible if the article is rejected due to quality issues at any phase.",
+                "Note: To promote offline presentations, only presenters who are presenting offline will be provided with the kit."
+            ]
+        }
+    ]
+}

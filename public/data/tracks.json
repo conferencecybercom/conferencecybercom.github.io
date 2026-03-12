@@ -1,0 +1,78 @@
+[
+    {
+        "id": "Track 1",
+        "title": "Intelligent Systems",
+        "topics": [
+            "Many-Core Computing and Accelerators",
+            "Analytics Reasoning and Sense-making on Big Data",
+            "Data Modelling & Semantic Engineering",
+            "AI in Big Data Analytics",
+            "Data Science Models with AI/FinTech",
+            "Hybrid Machine Learning Systems for Data Science",
+            "AI in Health & Medicine/FemTech",
+            "Machine Learning Recommender Systems in Big Data",
+            "Scalable Computing Models, Theories, and Algorithms",
+            "AI-enabled IoT",
+            "Volume Growth of AI in Metadata use and management",
+            "AI in Agriculture",
+            "High-performance Data Mining Algorithms"
+        ]
+    },
+    {
+        "id": "Track 2",
+        "title": "Communication Devices & Signal Processing",
+        "topics": [
+            "Antenna Designing",
+            "Digital Signal Processing",
+            "VLSI",
+            "5G, 6G Communication",
+            "Wireless Communication",
+            "Channel Modelling",
+            "MIMO Communication Systems",
+            "Microwave Communication Devices",
+            "RF-Signal Propagation",
+            "Terahertz Communication",
+            "RFID Technologies",
+            "MEMS (Micro Electro Mechanical Systems)",
+            "Actuators, Sensing Devices",
+            "Radar Signal Processing",
+            "Audio/Speech/Music Signal Processing",
+            "Image/Video Signal Processing"
+        ]
+    },
+    {
+        "id": "Track 3",
+        "title": "Security",
+        "topics": [
+            "Advanced Security Techniques",
+            "Big Data Techniques in Cyber Security",
+            "Forensic Analysis of Cyber Crimes",
+            "Cloud Security",
+            "Advanced Persistent Threat",
+            "Network Monitoring and Control",
+            "Secure Design, Tooling, and Engineering",
+            "Security and Trust of Citizens",
+            "Database Security",
+            "Security in IoT"
+        ]
+    },
+    {
+        "id": "Track 4",
+        "title": "Communication Networks",
+        "topics": [
+            "Digital Signature Techniques",
+            "Network Protocols",
+            "Next-generation Communication Networks",
+            "Data Acquisition Systems",
+            "Satellite Communication and Networks",
+            "Modelling & Simulation of Communication Networks and Systems",
+            "Routing and Flow Control in LANs, WANs, and PANs",
+            "Secure Routing, Naming/Addressing, and Network Management",
+            "Security & Privacy in Pervasive and Ubiquitous Computing (e.g., RFID)",
+            "Security & Privacy in Peer-to-Peer and Overlay Networks",
+            "Security & Privacy for Emerging Technologies (VoIP, Social Networks)",
+            "Security & Isolation in Cloud, Data Centre, and Software-Defined Networks",
+            "Telemedicine"
+        ]
+    }
+]

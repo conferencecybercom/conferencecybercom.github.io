@@ -1,0 +1,42 @@
+{
+    "conference": [
+        {
+            "url": "/images/gallery/conference/1.jpg",
+            "caption": "Inaugural Ceremony (AUTOCOM-25)"
+        },
+        {
+            "url": "/images/gallery/conference/2.jpg",
+            "caption": "Keynote Speaker Address"
+        },
+        {
+            "url": "/images/gallery/conference/3.jpg",
+            "caption": "Keynote Speaker Address"
+        },
+        {
+            "url": "/images/gallery/conference/4.jpg",
+            "caption": ""
+        },
+        {
+            "url": "/images/gallery/conference/5.jpg",
+            "caption": "Keynote Speaker Address"
+        },
+        {
+            "url": "/images/gallery/conference/6.jpg",
+            "caption": "Conference Hall Highlights"
+        },
+        {
+            "url": "/images/gallery/conference/7.jpg",
+            "caption": "Group Photo"
+        }
+    ],
+    "nearby": [
+        {
+            "url": "/images/gallery/nearby/1.jpg",
+            "caption": "Mussoorie"
+        },
+        {
+            "url": "/images/gallery/nearby/2.jpg",
+            "caption": "Cloud's End View Point - Mussoorie"
+        }
+    ]
+}
