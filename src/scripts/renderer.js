@@ -222,61 +222,19 @@ export const renderTracks = (tracks) => `
 `;
 
 export const renderCommittees = (data) => {
-  const categories = data.categories;
-
   return `
     <section class="committee">
-      <div class="container">
+      <div class="container" style="text-align: center; padding: 4rem 0;">
         <h2 class="section-title">Committee</h2>
         
-        ${categories.map(cat => `
-          <div class="committee-category" id="cat-${cat.id}">
-            <h3 class="category-title">${cat.title}</h3>
-            
-            ${cat.roles ? cat.roles.map(role => `
-              <div class="role-group">
-                <h4 class="role-title">${role.role_name}</h4>
-                <div class="member-grid">
-                  ${role.members.map(m => `
-                    <div class="member-card">
-                      <h5>${m.name}</h5>
-                      <p>${m.affiliation}</p>
-                    </div>
-                  `).join('')}
-                </div>
-              </div>
-            `).join('') : ''}
-            
-            ${cat.subgroups ? `
-              <div class="subgroups-container">
-                ${cat.subgroups.map(sub => `
-                  <div class="committee-subgroup">
-                    <h4 class="subgroup-title">${sub.name}</h4>
-                    <div class="member-list-compact">
-                      ${sub.members.map(m => `
-                        <div class="compact-member">
-                          <strong>${m.name}</strong>, <span class="affiliation-text">${m.affiliation}</span>
-                        </div>
-                      `).join('')}
-                    </div>
-                  </div>
-                `).join('')}
-              </div>
-            ` : ''}
-
-            ${cat.members ? `
-              <div class="member-grid">
-                ${cat.members.map(m => `
-                  <div class="member-card">
-                    <h5>${m.name}</h5>
-                    <p>${m.affiliation}</p>
-                  </div>
-                `).join('')}
-              </div>
-            ` : ''}
-          </div>
-        `).join('')}
-        
+        <div class="coming-soon-banner" style="max-width: 600px; margin: 0 auto; background: var(--surface); padding: 4rem; border-radius: 1.5rem; border: 1px dashed var(--accent);">
+          <span style="font-size: 4rem; display: block; margin-bottom: 1.5rem;">👥</span>
+          <h3>Coming Soon</h3>
+          <p style="color: var(--text-muted); font-size: 1.1rem; margin-top: 1rem;">
+            We are currently finalizing our committee members.
+            The full list will be announced shortly.
+          </p>
+        </div>
       </div>
     </section>
   `;
